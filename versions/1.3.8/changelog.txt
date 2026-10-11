@@ -1,0 +1,11 @@
+Homestead con Draghi - 1.3.8
+Rilasciata l'11/10/2026
+
+- Pack allineato al server Homestead (Fabric 1.20.1, loader 0.19.5)
+- Aggiunte: VanillaBackport 1.1.7.10, Platform 1.3.4, copycats 3.0.10, OPAC 0.32.7
+- Aggiornati: Oh-The-Biomes-Weve-Gone 1.8.2
+- Include i 7 Homestead Datafix + eldritch_end etyr recipe fix
+- 374 mod, server in servers.dat
+
+NOTA: questo e' il changelog mostrato IN GIOCO dal Modpack Update Checker.
+Tienilo corto: 10-15 righe si leggono bene nella schermata.
